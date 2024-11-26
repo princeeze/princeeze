@@ -18,7 +18,7 @@ My Portfolio:
 
 ### 📣 Contact:
 
-[![X Badge](https://img.shields.io/badge/-Prince%20Eze-0077B5?style=flat-square&logo=X&logoColor=white&link=https://www.x.com/princeeze)](https://www.x.com/princeeze)
+[![X Badge](https://img.shields.io/badge/-Prince%20Eze-0077B5?style=flat-square&logo=X&logoColor=white&link=https://www.x.com/theprinceeze)](https://www.x.com/theprinceeze)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pchidireeze@gmail.com)](mailto:pchidireeze@gmail.com)
 
 ## 🛠️ Languages and Tools:
